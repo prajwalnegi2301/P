@@ -1,0 +1,10 @@
+a=int(2)
+a+=2
+print(a)
+print(type(a))
+b=2
+print(type(b))
+c="helllo"
+print(type(c))
+d=5
+print(type(d))
